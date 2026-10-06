@@ -3,7 +3,7 @@
 \documentclass[10pt,twoside,slovak,a4paper]{article}
 \usepackage{graphicx}
 \usepackage{wrapfig}
-
+\usepackage{amsmath}
 \usepackage[slovak]{babel}
 %\usepackage[T1]{fontenc}
 \usepackage[IL2]{fontenc} % lepšia sadzba písmena Ľ než v T1
@@ -113,10 +113,14 @@ Ten istý zoznam, len číslovaný:
 Niekedy je potrebné nadpisom označiť odsek. Text pokračuje hneď za nadpisom.
 
 
-
 \section{Dôležitá časť} \label{dolezita}
 
-
+\begin{figure}[htb]
+  \centering
+  \includegraphics[angle=90, width=0.2\textwidth]{diagram.pdf}
+  \caption{diagram}
+  \label{fig:diagram1}
+\end{figure}
 
 
 \section{Ešte dôležitejšia časť} \label{dolezitejsia}
@@ -124,20 +128,33 @@ Niekedy je potrebné nadpisom označiť odsek. Text pokračuje hneď za nadpisom
 
 
 
-\begin{wrapfigure}{r}{0.45\columnwidth}
-  \centering
-  \includegraphics[angle=90, width=0.2\columnwidth]{diagram.pdf}
-  \caption{diagram}
-  \label{fig:diagram1}
-\end{wrapfigure}
+
+
 some changes 1
 some changes 2
+
 \begin{figure*}[h]
   \centering
   \includegraphics[width=0.8\textwidth]{diagram2.pdf}
   \caption{diagram 2}
   \label{fig:diagram2}
 \end{figure*}
+
+
+\begin{equation}
+A = \begin{bmatrix}
+ 1 &  2 &  3 &  4 \\
+ 5 &  6 &  7 &  8 \\
+ 9 & 10 & 11 & 12 \\
+13 & 14 & 15 & 16 \\
+17 & 18 & 19 & 20
+\end{bmatrix}
+\end{equation}
+\begin{multline}
+S_{10} = \sum_{k=1}^{10} k^2 = 1^2 + 2^2 + 3^2 + 4^2 + 5^2
+ + 6^2 + 7^2 + 8^2 + 9^2 + 10^2 \\
+ = 1 + 4 + 9 + 16 + 25 + 36 + 49 + 64 + 81 + 100 = 385
+\end{multline}
 % týmto sa generuje zoznam literatúry z obsahu súboru literatura.bib podľa toho, na čo sa v článku odkazujete
 \bibliography{literatura}
 \bibliographystyle{plain} % prípadne alpha, abbrv alebo hociktorý iný
