@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.22)  6 OCT 2026 10:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.22)  6 OCT 2026 10:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,10 +23,44 @@ File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
 )
-(C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
+y
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
+y
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
+s.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
+def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen151
+\WF@size=\dimen152
+\c@WF@wrappedlines=\count283
+\WF@box=\box53
+\WF@everypar=\toks18
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
 TeX and XeLaTeX
-\babel@savecnt=\count283
+\babel@savecnt=\count284
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
 ne 2068.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
@@ -41,13 +75,13 @@ LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?)
 on input line 2076.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
 on input line 2101.
-\U@D=\dimen149
+\U@D=\dimen153
 \l@unhyphenated=\language79
 
 (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def
 )
 \bbl@readstream=\read2
-\bbl@dirlevel=\count284
+\bbl@dirlevel=\count285
 Package babel Info: Configuration files are deprecated, as
 (babel)             they can break document portability.
 (babel)             Reported on input line 4196.
@@ -70,7 +104,7 @@ Language: slovak 2008/07/06 v3.1a Slovak support from the babel system
 Package babel Info: Making ^ an active character on input line 123.
 Package babel Info: Making " an active character on input line 126.
 Package babel Info: Making ' an active character on input line 129.
-\cs@wordlen=\count285
+\cs@wordlen=\count286
 Package babel Info: Making - an active character on input line 294.
 ))
 (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
@@ -89,36 +123,10 @@ File: il2cmr.fd 1997/02/06 CSLaTeX font definitions
 ))
 (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
-\inpenc@prehook=\toks17
-\inpenc@posthook=\toks18
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
 )
-(C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
-y
-Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks19
-)
-(C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
-y
-Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
-s.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 106.
-
-(C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
-def
-File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen150
-\Gin@req@width=\dimen151
-) (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+(C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -175,21 +183,21 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count286
+\c@section@level=\count287
 )
 (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.st
 y
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count287
+\etb@tempcnta=\count288
 )
 (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringen
 c.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen152
-\Hy@linkcounter=\count288
-\Hy@pagecounter=\count289
+\@linkdim=\dimen154
+\Hy@linkcounter=\count289
+\Hy@pagecounter=\count290
 
 (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
@@ -200,7 +208,7 @@ Now handling font encoding PD1 ...
 y
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count290
+\Hy@SavedSpaceFactor=\count291
 
 (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
@@ -214,9 +222,9 @@ Package hyperref Info: Plain pages OFF on input line 4210.
 Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
-\c@Hy@tempcnt=\count291
+\c@Hy@tempcnt=\count292
 LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen153
+\XeTeXLinkMargin=\dimen155
 
 (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -226,9 +234,9 @@ alc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count292
-\Field@Width=\dimen154
-\Fld@charsize=\dimen155
+\Fld@menulength=\count293
+\Field@Width=\dimen156
+\Fld@charsize=\dimen157
 Package hyperref Info: Hyper figures OFF on input line 6078.
 Package hyperref Info: Link nesting OFF on input line 6083.
 Package hyperref Info: Hyper index ON on input line 6086.
@@ -236,16 +244,16 @@ Package hyperref Info: backreferencing OFF on input line 6093.
 Package hyperref Info: Link coloring OFF on input line 6098.
 Package hyperref Info: Link coloring with OCG OFF on input line 6103.
 Package hyperref Info: PDF/A mode OFF on input line 6108.
-\Hy@abspage=\count293
-\c@Item=\count294
-\c@Hfootnote=\count295
+\Hy@abspage=\count294
+\c@Item=\count295
+\c@Hfootnote=\count296
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
-\Fld@listcount=\count296
-\c@bookmark@seq@number=\count297
+\Fld@listcount=\count297
+\c@bookmark@seq@number=\count298
 
 (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerun
 filecheck.sty
@@ -268,48 +276,48 @@ Package: cite 2015/02/27  v 5.5
 (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
 pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count298
+\l__color_backend_stack_int=\count299
 ) (clanok.aux
 Package babel Info: 'slovak' activates 'slovak' shorthands.
-(babel)             Reported on input line 18.
+(babel)             Reported on input line 20.
 )
 \openout1 = `clanok.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
 .mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count299
-\scratchdimen=\dimen156
-\scratchbox=\box53
-\nofMPsegments=\count300
-\nofMParguments=\count301
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count302
-\MPscratchDim=\dimen157
-\MPnumerator=\count303
-\makeMPintoPDFobject=\count304
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count300
+\scratchdimen=\dimen158
+\scratchbox=\box54
+\nofMPsegments=\count301
+\nofMParguments=\count302
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count303
+\MPscratchDim=\dimen159
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
+\everyMPtoPDFconversion=\toks22
 )
 (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
 f-base.sty
@@ -321,103 +329,120 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 s.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 30.
+Package hyperref Info: Link coloring OFF on input line 32.
  (clanok.out) (clanok.out)
 \@outlinefile=\write3
 \openout3 = `clanok.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 33.
+(Font)              <17.28> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 33.
+(Font)              <12> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 33.
+(Font)              <8> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 33.
+(Font)              <6> on input line 35.
 LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 
-33.
+35.
 
 (C:\Users\Влад\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmtt.fd
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 33.
+(Font)              <5> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 67.
+(Font)              <7> on input line 71.
 
-Underfull \hbox (badness 1681) in paragraph at lines 100--101
- []\IL2/cmr/bx/n/10 Ve�mi d�-le-�it� po-zn�mka.[] \IL2/cmr/m/n/10 Nie-kedy je p
-o-
+[1
+
+{C:/Users/Влад/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<fiit.png, id=77, 322.20375pt x 118.94438pt>
+File: fiit.png Graphic file (type png)
+<use fiit.png>
+Package pdftex.def Info: fiit.png  used on input line 75.
+(pdftex.def)             Requested size: 172.5pt x 63.6827pt.
+
+Overfull \hbox (17.25105pt too wide) in paragraph at lines 75--76
+ [][] 
  []
 
-<diagram.pdf, id=47, 210.7875pt x 341.275pt>
+<diagram.pdf, id=95, 210.7875pt x 341.275pt>
 File: diagram.pdf Graphic file (type pdf)
 <use diagram.pdf>
-Package pdftex.def Info: diagram.pdf  used on input line 122.
-(pdftex.def)             Requested size: 135.60138pt x 219.55046pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<diagram2.pdf, id=48, 391.4625pt x 220.825pt>
+Package pdftex.def Info: diagram.pdf  used on input line 129.
+(pdftex.def)             Requested size: 210.78699pt x 341.27415pt.
+Package babel Info: 'slovak' activates 'slovak' shorthands.
+(babel)             Reported on input line 133.
+[2 <./fiit.png>]
+<diagram2.pdf, id=114, 391.4625pt x 220.825pt>
 File: diagram2.pdf Graphic file (type pdf)
 <use diagram2.pdf>
-Package pdftex.def Info: diagram2.pdf  used on input line 129.
-(pdftex.def)             Requested size: 361.60138pt x 203.99036pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-(clanok.bbl
-Underfull \hbox (badness 1478) in paragraph at lines 16--21
-[]\IL2/cmr/m/n/10 Krzysztof Czar-necki and Chang Hwan Pe-
+Package pdftex.def Info: diagram2.pdf  used on input line 137.
+(pdftex.def)             Requested size: 276.00105pt x 155.70184pt.
+ (clanok.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 16--21
+[]\IL2/cmr/m/n/10 Krzysztof Czar-necki and Chang
  []
 
-[1{C:/Users/Влад/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+Underfull \hbox (badness 4378) in paragraph at lines 16--21
+\IL2/cmr/m/n/10 fe-a-ture mo-de-ling and cons-traints:
+ []
 
 
-])
-Package babel Info: 'slovak' activates 'slovak' shorthands.
-(babel)             Reported on input line 136.
+Underfull \hbox (badness 7326) in paragraph at lines 16--21
+\IL2/cmr/m/it/10 Works-hop on Soft-ware Fac-to-ries,
+ []
 
-[2
 
- <./diagram.pdf>] [3 <./diagram2.pdf>] (clanok.aux)
+Underfull \hbox (badness 2401) in paragraph at lines 16--21
+\IL2/cmr/m/it/10 OOPSLA 2005\IL2/cmr/m/n/10 , San Diego, USA,
+ []
+
+) [3 <./diagram.pdf> <./diagram2.pdf>] (clanok.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `clanok.out' has not changed.
-(rerunfilecheck)             Checksum: DCA731DA2FC82593BB099E907EB500F3;982.
+(rerunfilecheck)             Checksum: F84F1FCF1BE9192BFE098C588A7EC676;982.
  ) 
 Here is how much of TeX's memory you used:
- 10243 strings out of 467871
- 162109 string characters out of 5416924
- 595098 words of memory out of 5000000
- 38979 multiletter control sequences out of 15000+600000
- 640482 words of font info for 70 fonts, out of 8000000 for 9000
+ 10326 strings out of 467871
+ 163388 string characters out of 5416924
+ 587343 words of memory out of 5000000
+ 39057 multiletter control sequences out of 15000+600000
+ 641059 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,335b,615s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,335b,519s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Влад\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi60
-0\cstt10.pk> <C:\Users\Влад\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
-onts/dpi600\cssl10.pk> <C:\Users\Влад\AppData\Local\MiKTeX\fonts/pk/ljfour/
-public/csfonts/dpi600\csbx10.pk> <C:\Users\Влад\AppData\Local\MiKTeX\fonts/
-pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Влад\AppData\Local\MiKT
-eX\fonts/pk/ljfour/public/csfonts/dpi600\csr6.pk> <C:\Users\Влад\AppData\Lo
-cal\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\Влад\Ap
-pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\В
-лад\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C
-:\Users\Влад\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cst
-i10.pk> <C:\Users\Влад\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/
-dpi600\csr7.pk> <C:\Users\Влад\AppData\Local\MiKTeX\fonts/pk/ljfour/public/
+0\csr6.pk> <C:\Users\Влад\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfon
+ts/dpi600\csbx10.pk> <C:\Users\Влад\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
+nappen/ec/dpi600\tcrm1000.pk> <C:\Users\Влад\AppData\Local\MiKTeX\fonts/pk/
+ljfour/public/csfonts/dpi600\csbx12.pk> <C:\Users\Влад\AppData\Local\MiKTeX
+\fonts/pk/ljfour/public/csfonts/dpi600\csr7.pk> <C:\Users\Влад\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\Влад\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\В�
+�ад\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\
+Users\Влад\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csti1
+0.pk> <C:\Users\Влад\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dp
+i600\cstt10.pk> <C:\Users\Влад\AppData\Local\MiKTeX\fonts/pk/ljfour/public/
 csfonts/dpi600\csr10.pk> <C:\Users\Влад\AppData\Local\MiKTeX\fonts/pk/ljfou
 r/public/csfonts/dpi720\csbx12.pk> <C:\Users\Влад\AppData\Local\MiKTeX\font
-s/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\Влад\AppData\Local\Mi
-KTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\Влад\AppData\
-Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\Влад
-\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users
-\Влад\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
-Output written on clanok.pdf (3 pages, 145153 bytes).
+s/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\Влад\AppData\Local\Mi
+KTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\Влад\AppData
+\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\Влад
+\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users
+\Влад\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> 
+<C:\Users\Влад\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\c
+sr17.pk>
+Output written on clanok.pdf (3 pages, 159457 bytes).
 PDF statistics:
- 508 PDF objects out of 1000 (max. 8388607)
+ 543 PDF objects out of 1000 (max. 8388607)
  27 named destinations out of 1000 (max. 500000)
- 75 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 80 words of extra memory for PDF output out of 10000 (max. 10000000)
 

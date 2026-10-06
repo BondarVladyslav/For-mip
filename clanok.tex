@@ -1,6 +1,8 @@
 % Metódy inžinierskej práce
 
-\documentclass[10pt,twocolumn,twoside,slovak,a4paper]{article}
+\documentclass[10pt,twoside,slovak,a4paper]{article}
+\usepackage{graphicx}
+\usepackage{wrapfig}
 
 \usepackage[slovak]{babel}
 %\usepackage[T1]{fontenc}
@@ -63,9 +65,20 @@ Aj text môže byť prezentovaný ako obrázok. Stane sa z neho označný pláva
 
 
 \section{Iná časť} \label{ina}
-
+Môže sa zdať, že problém vlastne nejestvuje\cite{Coplien:MPD}, ale bolo dokázané, že to tak nie je~\cite{Czarnecki:Staged, Czarnecki:Progress}. Napriek tomu, aj dnes na webe narazíme na všelijaké pochybné názory\cite{PLP-Framework}. Dôležité veci možno \emph{zdôrazniť kurzívou}.
+Môže sa zdať, že problém vlastne nejestvuje\cite{Coplien:MPD}, ale bolo dokázané, že to tak nie je~\cite{Czarnecki:Staged, Czarnecki:Progress}. Napriek tomu, aj dnes na webe narazíme na všelijaké pochybné názory\cite{PLP-Framework}. Dôležité veci možno \emph{zdôrazniť kurzívou}.
+Môže sa zdať, že problém vlastne nejestvuje\cite{Coplien:MPD}, ale bolo dokázané, že to tak nie je~\cite{Czarnecki:Staged, Czarnecki:Progress}. Napriek tomu, aj dnes na webe narazíme na všelijaké pochybné názory\cite{PLP-Framework}. Dôležité veci možno \emph{zdôrazniť kurzívou}.
 Základným problémom je teda\ldots{} Najprv sa pozrieme na nejaké vysvetlenie (časť~\ref{ina:nejake}), a potom na ešte nejaké (časť~\ref{ina:nejake}).\footnote{Niekedy môžete potrebovať aj poznámku pod čiarou.}
-
+\section{Záver} \label{zaver} % prípadne iný variant názvu
+\begin{wrapfigure}{r}{0.45\columnwidth}
+  \centering
+  \includegraphics[width=0.5\columnwidth]{fiit.png}
+  \caption{fiit}
+  \label{fig:fiit}
+\end{wrapfigure}
+Môže sa zdať, že problém vlastne nejestvuje\cite{Coplien:MPD}, ale bolo dokázané, že to tak nie je~\cite{Czarnecki:Staged, Czarnecki:Progress}. Napriek tomu, aj dnes na webe narazíme na všelijaké pochybné názory\cite{PLP-Framework}. Dôležité veci možno \emph{zdôrazniť kurzívou}.
+Môže sa zdať, že problém vlastne nejestvuje\cite{Coplien:MPD}, ale bolo dokázané, že to tak nie je~\cite{Czarnecki:Staged, Czarnecki:Progress}. Napriek tomu, aj dnes na webe narazíme na všelijaké pochybné názory\cite{PLP-Framework}. Dôležité veci možno \emph{zdôrazniť kurzívou}.
+Môže sa zdať, že problém vlastne nejestvuje\cite{Coplien:MPD}, ale bolo dokázané, že to tak nie je~\cite{Czarnecki:Staged, Czarnecki:Progress}. Napriek tomu, aj dnes na webe narazíme na všelijaké pochybné názory\cite{PLP-Framework}. Dôležité veci možno \emph{zdôrazniť kurzívou}.
 Môže sa zdať, že problém vlastne nejestvuje\cite{Coplien:MPD}, ale bolo dokázané, že to tak nie je~\cite{Czarnecki:Staged, Czarnecki:Progress}. Napriek tomu, aj dnes na webe narazíme na všelijaké pochybné názory\cite{PLP-Framework}. Dôležité veci možno \emph{zdôrazniť kurzívou}.
 
 
@@ -111,24 +124,18 @@ Niekedy je potrebné nadpisom označiť odsek. Text pokračuje hneď za nadpisom
 
 
 
-\section{Záver} \label{zaver} % prípadne iný variant názvu
-
-
-
-%\acknowledgement{Ak niekomu chcete poďakovať\ldots}
-
-\begin{figure}[h]
+\begin{wrapfigure}{r}{0.45\columnwidth}
   \centering
-  \includegraphics[width=0.3\textwidth]{diagram.pdf}
-  \caption{Scheme}
+  \includegraphics[angle=90, width=0.2\columnwidth]{diagram.pdf}
+  \caption{diagram}
   \label{fig:diagram1}
-\end{figure}
+\end{wrapfigure}
 some changes 1
 some changes 2
 \begin{figure*}[h]
   \centering
   \includegraphics[width=0.8\textwidth]{diagram2.pdf}
-  \caption{Scheme}
+  \caption{diagram 2}
   \label{fig:diagram2}
 \end{figure*}
 % týmto sa generuje zoznam literatúry z obsahu súboru literatura.bib podľa toho, na čo sa v článku odkazujete
